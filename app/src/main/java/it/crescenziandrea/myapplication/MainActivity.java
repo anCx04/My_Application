@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         getText(R.string.app_name);
         getText(R.string.app_name);
+        getText(R.string.app_name);
     }
 }
